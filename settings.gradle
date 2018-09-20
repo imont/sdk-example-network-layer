@@ -1,0 +1,6 @@
+rootProject.name = 'sdk-example-network-layer'
+
+include 'network-layer'
+include 'drivers'
+include 'example-hardware-access'
+
