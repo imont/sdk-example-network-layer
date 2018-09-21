@@ -1,0 +1,3 @@
+dependencies {
+    compile "io.imont.lion:lion-drivers:${imontSdkVersion}"
+}

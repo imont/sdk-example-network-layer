@@ -1,0 +1,6 @@
+dependencies {
+    compile "io.imont.lion:lion-network:${imontSdkVersion}"
+    compile "io.imont.lion:lion-drivers:${imontSdkVersion}"
+    compile "io.reactivex:rxjava:${rxJavaVersion}"
+    compile project(":example-hardware-access")
+}
